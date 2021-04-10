@@ -1,3 +1,4 @@
+#!/bin/bash
 #MiXCR is a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data
 #This program takes R1 and R2 fastq files of TCRseq as input and runs MiXCR to align, assemble and export the TCR clones
 #Non-overlaping paired-end reads are always processed in VThenJ mode. JThenV can be used for short reads (~100bp) with full (or nearly full) J gene coverage.
