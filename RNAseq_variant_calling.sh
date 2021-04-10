@@ -1,3 +1,4 @@
+#!/bin/bash
 # Variant calling performed on RNA-seq from tumor samples offers a valuable addition to WES DNA-seq to identify new variants,
 # which likely comes from higher sequencing coverage of significantly expressed genes.
 # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631051/
