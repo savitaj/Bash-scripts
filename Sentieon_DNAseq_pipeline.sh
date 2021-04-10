@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Sentieon can be run from any server]
+# Sentieon DNAseq variant calling workflow is faster and more accurate than the regular GATK variant calling and can be run from any server
 # Input for this is adapter trimmed fastq R1 and R2 reads 
 
 
