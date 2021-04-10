@@ -1,3 +1,4 @@
+#!/bin/bash
 #For Takara, use '.gz' file for R1 & R2; and need to remove first 30 nucleotides from each read in R2.
 #Usage: sh CUTADAPT.sh $FASTQR1 $FASTQR2 $SAMPLE_NAME $WORKING_DIR
 
